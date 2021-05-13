@@ -104,3 +104,22 @@ form button:hover{
     transform: translateY(8rem) rotateZ(-20deg) rotateX(80deg);
     opacity: 0;
 }
+
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 2px;
+}
+
+footer h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
