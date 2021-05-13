@@ -74,7 +74,7 @@ function checkDelete(e){
     }
 }
 
-//Localstorage manupulation
+//Localstorage manipulation
 
 function getLocalTodos(){
     let todos = []
